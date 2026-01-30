@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+
+# Conda / virtual environments
+env/
+venv/
+.conda/
+anaconda3/
+.env/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Data files
+data/
+*.csv
+*.zip
+*.pdf
+
+# Outputs / logs
+runs/
+logs/
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
